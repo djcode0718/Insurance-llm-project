@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+.env/
+ins-env/
+
+# FAISS index file
+*.index
+*.pkl
+
+# VSCode
+.vscode/
+
+# Mac OS
+.DS_Store
+
+# Streamlit cache
+.streamlit/
