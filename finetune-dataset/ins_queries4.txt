@@ -1,0 +1,1075 @@
+Claim for dental cleaning under general insurance.
+Patient seeking coverage for laser eye correction (LASIK).
+Acupuncture treatment for chronic back pain.
+Reimbursement for weight loss surgery (bariatric procedure).
+Homeopathy treatment claimed under hospitalization benefits.
+Claim for Botox treatment for wrinkles.
+A 5-day yoga retreat for stress relief claimed under mental health coverage.
+Reimbursement for vitamins and supplements prescribed post-surgery.
+Cosmetic nose reshaping after accidental scar healing.
+Chiropractic sessions post minor road accident.
+Patient underwent ayurvedic detox therapy, now claims insurance.
+Treatment received outside network hospital without prior intimation.
+Claim for regular physiotherapy sessions not tied to any injury.
+Herbal medicines bought online claimed under policy.
+Skin brightening treatment billed under dermatology consultation.
+Routine fertility checkups (without any procedure) claimed.
+Hair transplant surgery claimed under accident coverage.
+Patient took treatment in a wellness spa for migraine.
+Dental braces for child, not linked to trauma.
+Tattoo removal procedure claimed as dermatological treatment.
+In-vitro fertilization costs claimed under maternity benefit.
+Consultation with life coach billed under mental health coverage.
+Treatment for snoring condition claimed as respiratory illness.
+Bariatric surgery for non-life-threatening obesity.
+Hospitalization for substance detox in unlisted rehab center.
+Anti-aging hormone therapy billed under endocrinology.
+Plastic surgery for facial enhancement (not due to accident).
+Health checkup for employee mandatory by company, claimed personally.
+Night-time ICU charges during observation only (no medical emergency).
+Patient admitted for sleep study (polysomnography) at non-partner clinic.
+Claim filed 65 days after treatment date (beyond TAT).
+Mental health therapy with unlicensed professional.
+Treatment taken abroad without pre-authorization.
+Claim for home care during quarantine, without hospitalization.
+Patient admitted for tattoo allergy, but documents missing.
+Vaccination charges for adult covered under pediatric policy.
+Pre-existing diabetes claim within 1st year of policy.
+Second cataract surgery claimed without doctor’s recommendation.
+Post-natal yoga classes billed under maternity package.
+Child’s fracture treated in alternative medicine center.
+Consultation done by dietician for obesity claimed under GI.
+Home nurse visit without valid prescription.
+Gym physiotherapy claimed as orthopedic recovery.
+Missed claim submission deadline by 3 months.
+Annual dental polishing submitted under emergency care.
+Stem cell therapy for anti-aging.
+Hospital bill forged – patient never admitted.
+Claim raised for treatment on policy lapse date.
+Surgery done under package but additional charges inflated.
+No discharge summary provided – claim denied.
+Patient admitted for exam anxiety – no medication given.
+Admission done just to claim cashless benefit.
+Undergoing acupuncture at spa, claimed under pain relief.
+No pre-approval for robotic surgery – high charges.
+Second opinion billed as diagnostic imaging.
+Prescribed equipment (walker) claimed as hospitalization.
+Patient took counseling for exam fear – not covered.
+Speech therapy for stammering without accident or disorder.
+Consultation done after 3 months of incident – irrelevant.
+Physical therapy at home by unlicensed professional.
+Pet bite, but treatment in vet hospital.
+Cosmetic mole removal (not malignant).
+Hair regrowth treatment after chemotherapy completed.
+Pre-policy surgery claimed using current policy.
+Psychiatric consultation for marital issues.
+Treatment taken during grace period of lapsed policy.
+Refused treatment but claimed outpatient charges.
+Alcohol addiction counseling in wellness center.
+Blood pressure monitoring done at home, claimed as hospitalization.
+Extra beds for family members during hospital stay.
+Hospital TV and Wi-Fi charges submitted as medical.
+International treatment claimed under domestic policy.
+Doctor’s consultation at hotel, billed as home visit.
+Wrong hospital code used in claim submission.
+Patient took discharge against medical advice and re-admitted later.
+No prescription provided for claimed medicines.
+Outpatient dental cleaning submitted under surgery benefit.
+Patient expired, but claim filed after cremation with no proof.
+Documents submitted in regional language without translation.
+Unrelated diagnosis in claim and discharge summary.
+Medical tests repeated without doctor's recommendation.
+Hospital stay extended to meet claim eligibility.
+Multiple OPD visits claimed under one IP admission.
+Duplicate claim raised for same treatment under different insurer.
+Hospitalized for observation, but no active treatment done.
+Maternity claim filed under general health policy.
+Claim for massage therapy after gym injury.
+Expenses from old bills submitted for new claim.
+Claim for health watch reimbursed under medical device benefit.
+Relatives signing medical forms – no patient authorization.
+Post-operative food supplements billed under medicine.
+Uninsured person treated under policyholder’s name.
+Excess medicine quantities purchased, not used during stay.
+Teleconsultation with overseas doctor claimed under local policy.
+Emergency appendectomy after 3 months of policy initiation.
+Routine dental cleaning.
+Cataract surgery under day-care benefit.
+Abortion due to rape with police report.
+Injury due to self-harm.
+Treatment abroad not pre-authorized.
+Chemotherapy under daycare cover.
+Treatment for cosmetic nose surgery.
+ICU charges during COVID-19 hospitalization.
+Vaccination charges for hepatitis B.
+Accident treatment within 24 hours of policy purchase.
+Abortion due to social reasons.
+Surgery for ovarian cyst after 1 year of coverage.
+Injury in bike racing event.
+Coverage for IVF treatment.
+Diabetes medication for existing condition.
+Gallbladder removal after 6 months of waiting period.
+Weight-loss surgery for obesity.
+Dialysis as part of chronic kidney condition.
+Heart attack treatment in covered hospital.
+Treatment for congenital heart defect.
+Mental health counseling sessions.
+Knee replacement post accident.
+Hair transplant for baldness.
+Accident during mountain climbing.
+Post-surgery physiotherapy sessions.
+Coverage for varicose veins surgery.
+Tattoo removal due to infection.
+Hospitalization for Dengue.
+Abortion due to fetal abnormalities.
+Plastic surgery after acid attack.
+Coverage for accidental burns.
+Homeopathy for migraine.
+Treatment for piles.
+Injury in home fire incident.
+Liver transplant for alcoholic liver disease.
+Chemotherapy for breast cancer.
+Maternity expenses for second delivery.
+ACL surgery for football injury.
+Food poisoning hospitalization.
+Treatment for insomnia.
+Hysterectomy for uterine fibroids.
+Routine full body checkup.
+Glaucoma treatment.
+Kidney stone removal under daycare.
+Treatment in spa recommended by doctor.
+Hospitalization due to road traffic accident.
+Laser eye surgery (LASIK).
+Coverage for Covid-19 booster vaccine.
+Private room request in Tier 1 hospital.
+Hospitalization for chikungunya.
+Gall bladder surgery under emergency.
+Knee pain treatment through ayurveda.
+Accidental injury from slipping at home.
+Dental implants after accident.
+Acupuncture treatment.
+Surgery for tonsillitis in a minor.
+Tetanus injection for injury.
+Coverage for hospital-acquired infection.
+Alternative therapy for arthritis.
+Severe food allergy hospitalization.
+Surrogacy procedure.
+Insulin purchase from pharmacy.
+Coverage for hospital consumables.
+Hospitalization due to epilepsy attack.
+Ayurvedic therapy post-surgery.
+Hospitalization due to workplace injury.
+Treatment during international travel.
+Room upgrade without pre-approval.
+Plastic surgery due to road accident scars.
+Coverage for speech therapy in child.
+Ambulance charges for cardiac arrest.
+Skin treatment for acne.
+Coma due to head injury.
+Injury from animal bite.
+Coverage for oxygen support at home.
+Emergency treatment during pilgrimage.
+Admission due to dehydration.
+Hospitalization for TB.
+Pneumonia in elderly patient.
+Coverage for liver cirrhosis.
+Hospital charges for birth control consultation.
+Treatment for high BP due to stress.
+Chikungunya treatment under homeopathy.
+Second opinion consultation charges.
+Hospital admission for severe anxiety.
+Diabetic foot amputation.
+Coverage for cataract in both eyes.
+Bone fracture in minor.
+Road accident involving intoxication.
+Treatment for postpartum depression.
+Newborn baby ICU charges.
+Accidental injury while traveling in train.
+Stitching of deep wound due to fall.
+Treatment for burns caused by gas leak.
+Coverage for speech loss due to accident.
+Dislocation of shoulder from sports injury.
+Hospitalization after electric shock.
+Breast surgery after cancer diagnosis.
+Fever and dehydration requiring IV fluids.
+Complications in chemotherapy.
+Crush injury to hand at workplace.
+Coverage for blood transfusion.
+Ravi Kumar, 52-year-old male, covered under Care Health Policy for 2 years, underwent emergency angioplasty for a heart attack. Is it covered?
+Priya Sharma, 26-year-old female, insured under Star Comprehensive Plan since 6 months, wants to claim cosmetic nose surgery. Is it reimbursable?
+Alok Jain, 45M, using Niva Bupa ReAssure for 18 months, got hospitalized for dengue fever. Can this be claimed?
+Reena George, 33F, with HDFC Ergo Optima Restore for 3 years, underwent abortion due to fetal abnormality. Will the expenses be approved?
+Tarun B., 60M, covered under ICICI Lombard Health Plus for 1 year, hospitalized for piles surgery. Will this be approved?
+Ritika Sinha, 29F, covered under Care Joy maternity policy for 1.5 years, gave birth in a private room. Is the private room cost covered?
+Ashok Menon, 54M, with Star Senior Citizens Red Carpet for 4 years, needed dialysis due to kidney failure. Can he claim this?
+Swathi Rao, 22F, under her father's Niva Bupa family floater plan (2 years), hospitalized for typhoid. Is she eligible for reimbursement?
+Arun Joshi, 40M, covered under Bajaj Allianz Health Guard for 2 months, got stitches after cutting his finger. Can he claim this?
+Nikita Paul, 48F, on ManipalCigna Lifetime Health since 3 years, had breast cancer surgery. Will insurance approve this?
+Ramesh Verma, 35M, covered under New India Assurance Mediclaim for 1 year, admitted after bike accident. Will this be approved?
+Ananya Iyer, 30F, under Religare Care Plan since 18 months, admitted for appendicitis surgery. Can she get reimbursement?
+Rajesh Nair, 51M, with Care Advantage Plan since 2 years, used ambulance for non-emergency hospital visit. Is that reimbursed?
+Shalini K, 39F, policy: Aditya Birla Active Health for 14 months, consulted psychiatrist for anxiety. Can this be claimed?
+Amit Dutta, 47M, under Star Health Comprehensive Policy for 6 months, got laser eye surgery. Is LASIK covered under this policy?
+Kavya Jain, 27F, with a 2-year-old policy from HDFC Ergo, received treatment abroad for infection. Is it claimable?
+Vikram Singh, 59M, covered under Tata AIG Medicare, suffered heart attack at work. Treated in network hospital. Is it reimbursed?
+Divya Patel, 31F, covered for 1 year under United India family plan, received ayurvedic treatment for arthritis. Can she claim?
+Anil Roy, 43M, using Max Bupa ReAssure for 3 years, was treated for gallstones via daycare procedure. Covered?
+Meena Thakur, 56F, with ICICI Lombard for 9 months, had hernia surgery. Is this eligible for reimbursement?
+Siddharth Joshi, 38M, covered under Niva Bupa Health Recharge, used emergency ambulance after road accident. Is that covered?
+Neha Kulkarni, 29F, covered under Oriental Insurance for 1 year, was admitted due to food poisoning. Can she claim this?
+Anuj Sinha, 46M, under Care Supreme Plan for 2 years, underwent ACL surgery due to sports injury. Is it claimable?
+Sonal Arora, 35F, with Star Women Care Plan, 1.5 years, received postpartum physiotherapy. Is that covered?
+Pavan Rao, 57M, under Aditya Birla Activ Health, hospitalized for diabetic foot surgery. Eligible for reimbursement?
+Pooja Mehra, 24F, insured under her employer's HDFC Ergo plan for 6 months, was hospitalized due to a workplace injury. Covered?
+Rahul Das, 50M, with New India Assurance for 3 years, requested private nurse post-discharge. Is this reimbursed?
+Ishita Jain, 28F, covered under Care Heart Plan for 2 years, underwent emergency C-section. Can she file a claim?
+Jayant Rao, 64M, Tata AIG senior health plan, 3 years coverage, suffered stroke and was in ICU. Will this be reimbursed?
+Tanya D., 37F, insured by Niva Bupa for 14 months, treated for piles through laser. Is laser piles surgery covered?
+Vivek Kapoor, 41M, with Star Health Red Carpet Policy, treated for kidney stones through daycare. Will insurance approve?
+Sweta Singh, 34F, under Manipal Cigna ProHealth for 2 years, got dengue and needed 4-day hospitalization. Covered?
+Arvind M., 55M, covered under Religare Care Plus, slipped and broke wrist at home. Can he claim hospital expenses?
+Divya Desai, 29F, with HDFC Ergo Optima Secure since 1 year, underwent abortion due to rape. Is it covered?
+Nilesh Joshi, 36M, Max Bupa Heartbeat Policy, suffered cardiac arrest and hospitalized. Will claim be approved?
+Anjali Sharma, 32F, policy: Aditya Birla Health Infinity for 2.5 years, got dengue fever with low platelets. Can she claim this?
+Suresh, 62M, with Tata AIG MediCare Premier for 3 years, got surgery for hernia. Will this be approved?
+Nisha Patil, 40F, with Care Classic Policy for 1 year, received ayurvedic detox for migraines. Is it reimbursed?
+Gaurav Mehta, 49M, with ICICI Lombard Family Floater Plan for 18 months, required chemo for colon cancer. Covered?
+Sanya Batra, 30F, under Star Health Women Care policy, had postpartum complications needing 3-day hospital stay. Claimable?
+Karthik Menon, 44M, policy: Niva Bupa Health Companion, treated for severe back pain via physiotherapy. Is it included?
+Sheetal P., 39F, with Religare Assure Plan for 2 years, had gallbladder removal surgery. Will this be covered?
+Naveen Iyer, 58M, under ICICI Complete Health Insurance, hospitalized due to dengue. Claim valid?
+Rohit Shetty, 25M, covered by employer under Care Group Policy, got injury while trekking. Is that eligible?
+Deepa Singh, 35F, under Max Bupa ReAssure for 9 months, underwent IVF. Can she claim reimbursement?
+Manoj, 61M, with Star Red Carpet Plan, fell and fractured his leg. Claimable under existing policy?
+Kritika Verma, 42F, policy: HDFC Ergo My Health Suraksha, suffered epilepsy attack and hospitalized. Will this be approved?
+Rahul Gupta, 37M, Tata AIG Medicare Premier policyholder, required ICU for swine flu. Claim applicable?
+Neelima J., 29F, under Star Health Young Star Policy, had tonsil removal surgery. Will insurance cover this?
+Santosh Deshmukh, 63M, insured under New India Assurance for 2 years, received blood transfusion. Will he get reimbursement?
+Meera Rao, 28F, covered under Care Joy Policy, admitted for postpartum depression. Is psychiatric care included?
+Vinay Kumar, 45M, with HDFC Ergo Suraksha, underwent bone fracture surgery. Is it reimbursed?
+Reshma Shah, 38F, using ICICI Health Plus since 1.5 years, had laparoscopic fibroid removal. Covered?
+Adarsh Jain, 52M, with Max Bupa Health Recharge, was treated for hypertension-induced stroke. Is it covered?
+Ila Verma, 31F, with Religare Care plan, admitted for chikungunya fever. Can she claim this?
+Farhan K., 47M, under Star Comprehensive Plan, needed 3-day ICU stay for pneumonia. Covered?
+Manisha Das, 40F, HDFC Ergo policyholder for 1 year, consulted psychologist for clinical depression. Reimbursed?
+Kabir Malhotra, 36M, on Aditya Birla Activ Health policy for 6 months, got laser eye surgery. Will he get a claim?
+Sharanya Pillai, 29F, with Star Health Women plan, had miscarriage due to infection. Is that covered?
+Saurav G., 39M, ICICI Health Shield for 3 years, met with a road accident. Can he claim hospital charges?
+Knee surgery for a male in Hyderabad.
+Emergency treatment after a road accident.
+Claim for cataract surgery in a private hospital.
+Child admitted for fever and dehydration.
+Appendix removal in a day-care setting.
+Back pain physiotherapy claim request.
+Stomach infection admitted for 1 day.
+Tooth extraction due to severe decay.
+Insurance claim for pregnancy-related checkups.
+Gallbladder surgery after 1 year of policy.
+MRI and scan due to accident.
+Request for postnatal care expenses.
+Twisting injury at home, knee ligament damage.
+Headache scan and neurologist visit.
+Routine health check-up.
+Fracture in hand due to fall from bike.
+Dental braces for alignment.
+Hospitalization for chickenpox.
+Claim for thyroid surgery.
+Hospital stay of 18 hours for food poisoning.
+Eye checkup and glasses reimbursement.
+Burns due to cooking accident.
+Asthma attack treatment in emergency room.
+Request for laser eye correction.
+Psychiatric counseling for 3 sessions.
+Claim for stomach ulcer surgery.
+Request for diagnostic scans and blood tests.
+Skin allergy treatment.
+Hospital room rent for one day stay.
+Ongoing physiotherapy for shoulder pain.
+Post-operative care for knee operation.
+Reimbursement for hospital parking charges.
+Treatment for dengue.
+Kidney infection treatment.
+Request for reimbursement of travel cost to hospital.
+Fever and vomiting - child admitted.
+Polio vaccination expense reimbursement.
+Regular blood sugar monitoring kit.
+Claim for tuberculosis treatment.
+Hospitalization for arthritis flare-up.
+Request for room rent upgrade claim.
+Food charges during hospital stay.
+Claim for wrist fracture treatment.
+Admission due to high BP.
+Post-discharge injection charges.
+Short-term hospitalization due to dehydration.
+IV fluids for food poisoning.
+Accidental cut requiring stitches.
+X-ray and consultation after leg injury.
+Private hospital stay after accident.
+Health claim after dengue fever.
+Request for sleep disorder treatment.
+Liver function test and doctor visit.
+Hydrocele operation.
+Tonsil removal for recurring throat infection.
+Expenses for broken tooth repair.
+Heart palpitations leading to ER visit.
+ER visit due to food allergy.
+Dislocated shoulder during gym.
+Admitted for dog bite.
+Eye inflammation treatment.
+General weakness and fainting admission.
+CT scan for head injury.
+Back strain due to heavy lifting.
+Urinary infection treatment.
+Child admitted due to seizures.
+Neurological exam for memory loss.
+Cold and flu hospitalization.
+Abdominal pain during travel.
+Skin infection due to insect bite.
+Mouth ulcers and dehydration.
+Nasal bleeding and ENT consultation.
+Request for arthritis medication reimbursement.
+Hospitalization due to anxiety attack.
+Heat stroke during summer.
+Electrolyte imbalance and admission.
+Blood transfusion for anemia.
+Day care admission for IV antibiotics.
+Chest pain and ECG done.
+Claim for ingrown toenail surgery.
+Infection due to insect bite.
+Minor burns from firecracker.
+Jaw dislocation after accident.
+Nerve damage from bike accident.
+Eye irritation due to chemical splash.
+Claim for viral fever and bed rest.
+Foot sprain and X-ray.
+Claim for hospital charges after fall.
+Consultation for irregular heartbeat.
+Fever lasting more than 3 days.
+Minor surgery on finger.
+Observation in hospital for head bump.
+Stomach bloating and severe pain.
+Admitted for gastritis.
+Chest congestion and fever.
+Injury to leg while playing cricket.
+ER visit after fainting episode.
+Swelling in abdomen.
+Neck strain due to poor posture.
+47-year-old woman hospitalized for gallstones in Mumbai.
+10-year-old child treated for dog bite infection.
+72-year-old male with Alzheimer’s admitted for a fall injury.
+30-year-old man undergoes hernia surgery in Chennai.
+Claim for hearing aid reimbursement under family floater.
+Emergency dialysis for 58-year-old diabetic patient.
+Cosmetic nose surgery for 25-year-old influencer in Delhi.
+Routine dental cleaning for corporate employee.
+Reimbursement for stitches after kitchen accident.
+Claim for physiotherapy post knee replacement.
+17-year-old girl hospitalized for food poisoning.
+39-year-old pregnant woman admitted for premature labor.
+Piles surgery performed under cashless facility.
+MRI scan and blood tests after blackout incident.
+Ambulance charges for transfer between hospitals.
+24-hour observation after seizure episode in Hyderabad.
+Hospitalization due to dengue with platelet drop.
+28-year-old female receives psychiatric counseling.
+Claim for skin allergy due to hair dye reaction.
+37-year-old man hospitalized after fainting at gym.
+Private nurse requested for post-discharge care.
+Eye infection treated with antibiotics – OPD bill.
+Laparoscopy for ovarian cyst removal.
+Insurance claim for cancer chemotherapy sessions.
+Post-accident rehabilitation support requested.
+Emergency hospitalization during honeymoon in Goa.
+Foreign tourist fell ill, seeks insurance claim in India.
+Claim for tetanus shot after injury with rusted nail.
+Accidental burn due to geyser malfunction.
+Stomach ache due to contaminated food at event.
+55-year-old man admitted for chest pain, ECG done.
+Liver function test and ultrasound after persistent fatigue.
+Medical claim for child admitted due to high fever.
+Speech therapy sessions after minor stroke.
+Policyholder requests claim for cervical spondylitis therapy.
+Claim for root canal treatment at dental clinic.
+Request for hormone therapy during gender transition.
+Hospital charges after minor bike accident.
+Acid reflux treated with endoscopy – claim submitted.
+Vaccination charges for flu and pneumonia.
+IV hydration administered for traveler after heatstroke.
+Patient fainted after fasting – emergency admission.
+49-year-old woman admitted for gallbladder removal.
+Sleep apnea diagnosis at sleep lab – claim request.
+Request for medication coverage for thyroid condition.
+Insurance query for mole removal on face.
+Cashless facility availed for spine surgery in Bangalore.
+Hospital stay for high blood pressure control.
+Surgery for infected wisdom tooth.
+39-year-old man hospitalized due to severe migraine.
+Cervical collar provided after neck injury – reimbursement.
+Day care admission for chemotherapy session.
+Laser eye surgery not covered – claim denied.
+Hospital admission after panic attack episode.
+Infant treated for jaundice under neonatal care.
+Diabetic foot infection treated with antibiotics.
+24-year-old man injured during sports tournament.
+Partial amputation due to diabetic complications.
+Claim for second opinion consultation overseas.
+ER visit due to alcohol poisoning.
+Reimbursement for malaria treatment at private hospital.
+65-year-old woman slipped in bathroom – claim filed.
+ER visit after allergic reaction to seafood.
+13-year-old boy bitten by stray dog – anti-rabies injection.
+Child’s tooth cavity filling requested for reimbursement.
+Plastic surgery after facial trauma in car accident.
+Treatment for kidney stones in metro city hospital.
+Coma patient under ICU care – reimbursement query.
+Vaccination for newborn covered under maternity add-on?
+Routine checkup in wellness clinic – claim denied.
+Claim for treatment of chronic constipation.
+Suturing done for deep cut – emergency treatment.
+Request for home healthcare expenses after surgery.
+48-year-old man admitted for dehydration.
+Bronchitis flare-up in asthmatic patient – hospitalization.
+Chest CT scan following persistent cough.
+Medical claim for gallbladder sludge removal.
+Stomach pumping done after accidental tablet overdose.
+Hospitalization of old patient for palliative care.
+30-year-old transgender patient treated for urinary tract infection.
+Inhalation of toxic fumes – ER visit claimed.
+IV antibiotics for foodborne infection.
+Swelling in leg after flight – suspected DVT.
+Patient admitted for observation after epileptic fit.
+Clot removal after minor stroke.
+ER visit due to assault injuries.
+Insurance claim for infected tattoo treatment.
+Surgery for varicose veins under policy.
+Frostbite treatment after exposure during trekking.
+Hospitalization due to asthma triggered by pollution.
+Claim for panic disorder emergency care.
+Vaccination for hepatitis B – OPD claim attempt.
+Occupational therapy for stroke patient.
+Medical evacuation from hilly area after accident.
+Appendectomy in rural hospital – offline claim filed.
+Bacterial infection from roadside food – short stay.
+ICU stay due to high fever and seizures.
+Antibiotic-resistant UTI treated over 3 days.
+Second-degree burns from firecrackers.
+Insurance query for removal of benign tumor.
+Injury during marathon – medical costs claimed.
+Medical claim for paralysis diagnosis tests.
+Child hospitalized after choking on food.
+Emergency care for suspected COVID symptoms.
+Treatment for broken toe after hitting table.
+Psychiatric admission for severe depression episode.
+Reimbursement for circumcision due to medical reason.
+ER admission due to extreme anxiety and breathlessness.
+Hospitalization due to dengue fever after 2 years of continuous policy.
+Claim for physiotherapy sessions post spinal injury under silver policy.
+Surgery for nasal septum deviation after 7 months of policy renewal.
+Cataract surgery for 62-year-old female, policy active for 3 years.
+Kidney stone laser removal for 38-year-old male under gold policy.
+Dental treatment following road accident, policy active for 1.5 years.
+Maternity-related hospitalization for a second child, policy duration 2 years.
+Treatment for alcohol-related liver disease, policy recently renewed.
+Treatment of a snake bite in a forest trip, emergency hospitalization.
+Chemotherapy for stage 2 breast cancer in a policyholder aged 49.
+ACL reconstruction surgery for football injury, policyholder aged 22.
+IVF treatment expenses, couple insured for 4 years.
+COVID-19 hospitalization for a 70-year-old man, gold policy active.
+Treatment for burns due to kitchen accident, hospitalization >24 hours.
+Home care expenses for terminal cancer, policy valid for 5 years.
+Psychiatric treatment under silver policy, hospitalization for 10 days.
+Hip replacement surgery for 58-year-old woman, under premium plan.
+Insulin pump coverage for type 1 diabetes in 12-year-old boy.
+Blood transfusion for thalassemia patient, policy active since birth.
+Emergency C-section for first pregnancy, 2-year-old maternity cover.
+Hospital charges for dengue for child not included in family plan.
+Liposuction for medical obesity, BMI above 40, policy >3 years.
+Claim for chemotherapy drugs taken at home, not hospitalized.
+Pacemaker installation for cardiac patient, admitted for 3 days.
+Emergency dialysis for kidney failure, 6-month-old policy.
+Hospitalization due to dog bite and rabies vaccination.
+Motor neuron disease long-term hospitalization expenses.
+Prostate surgery for 68-year-old man, policy renewed 6 times.
+Trauma care after bike accident, ICU charges for 48 hours.
+Liver transplant in network hospital, policy 4 years old.
+Cardiac stent placement in tier-2 city, policyholder aged 45.
+Neonatal ICU charges for premature baby, covered under family floater.
+Emergency treatment for food poisoning abroad during business trip.
+Bariatric surgery for obesity management, doctor recommendation.
+Chikungunya-related hospitalization under basic policy.
+Post-stroke rehabilitation and therapy, policy active 10 years.
+Breast reconstruction surgery after mastectomy.
+Cochlear implant for 6-year-old child, under child plan.
+Brain tumor removal after 6-month waiting period over.
+Skin grafting for electrical burns, policyholder aged 34.
+Diabetic foot ulcer surgery, insured for 7 years.
+In-vitro fertilization coverage denied due to non-medical reason.
+Claim for snake bite anti-venom administered in clinic (not admitted).
+Stomach ulcer surgery, gold plan with 2 years continuity.
+Heart bypass surgery for diabetic patient, pre-existing condition declared.
+Treatment for malaria in rural hospital, expenses not cashless.
+Organ donor surgery expenses not matching with clauses.
+Child hospitalization for high fever, less than 24 hours stay.
+Psychological trauma therapy post accident, 12 sessions billed.
+Therapeutic abortion due to genetic issues, insured 3 years.
+Treatment for minor burn in outpatient setting.
+Joint dislocation treatment, less than 12-hour hospital stay.
+Stomach infection during international trip, claim submitted on return.
+Expenses for cochlear implant not covered under bronze plan.
+Uterus removal surgery (hysterectomy) for fibroid bleeding.
+Breathing support for asthma attack, emergency care claim.
+Botox injections for muscle spasms prescribed by neurologist.
+Liver cirrhosis treatment excluded due to alcoholism clause.
+Lung infection in COVID-negative patient, ICU stay 2 days.
+Medical abortion due to fetal abnormality, insured since 2020.
+Treatment for poisoning after consuming spoiled food.
+Varicose veins surgery, declared pre-existing in application.
+LASIK surgery for high myopia, covered after 3-year waiting.
+Severe allergic reaction to medication, treated in ER.
+Appendix removal in non-network hospital, bill reimbursed.
+Cyst removal surgery for teenager under child health plan.
+Coma care expenses after bike crash, claim pending.
+C-section expenses denied due to incomplete documents.
+Surgical correction of clubfoot in newborn, within family policy.
+Breast cancer recurrence, 2nd surgery after remission.
+Migraine treatment expenses denied under general exclusions.
+Long-term oxygen support device cost claimed after discharge.
+Hospitalization for chickenpox in adult, policy active since 2018.
+Fracture treatment post fall, 2-night stay in general ward.
+Hospitalization for seizures in epilepsy patient, gold policy.
+Hearing aid for senior citizen, policy active 5+ years.
+Accidental injury during mountaineering expedition, covered under adventure clause.
+Allergic rhinitis treatment, daily medication bills submitted.
+Kidney infection for pregnant woman, treated without surgery.
+Paralysis rehabilitation sessions at home, policy under gold tier.
+Blood pressure monitoring during 1-day admission, claim rejected.
+Multiple sclerosis hospitalization claim under family plan.
+Gall bladder removal post recurrent infection, surgery covered.
+Biopsy procedure for suspected cancer, outpatient claim.
+ICU stay for high-risk pregnancy, twins born prematurely.
+Post-cancer PET scan denied as not under active treatment.
+Long COVID hospitalization for respiratory distress.
+Wound debridement after traumatic injury, 2 days admitted.
+Insured person dies during surgery, nominee files claim.
+Eye injury due to workplace accident, covered under personal accident rider.
+Expenses for gastroenteritis in 2-year-old, 1.5-day admission.
+Nasal polyp surgery, ENT consultation claim also included.
+Internal bleeding post-accident, hospitalized immediately.
+Therapy for PTSD after robbery trauma, silver plan active.
+Anemia due to chronic illness, transfusion done twice.
+Pregnancy termination due to fetal heartbeat stopping.
+Hospitalization for spine decompression surgery, 3 nights stay.
+High fever due to viral infection, basic plan used.
+Loss of vision after trauma, surgery performed in network hospital.
+ICU care for premature infant after emergency delivery.
+Blood cancer (leukemia) chemo cycles claimed under critical illness.
+28-year-old female admitted for dengue treatment under Plan C, policy active for 2 years.
+46-year-old diabetic man had a cataract surgery in home town after 1 year of policy.
+Claiming hospitalization charges for COVID isolation center in a hotel.
+Child injured in school, requires stitches, policy just completed 30 days.
+Reimbursement for appendix removal surgery done in a government hospital.
+Foreign national insured in India seeks treatment for malaria in Goa.
+Patient with depression admitted for 48-hour observation, any coverage?
+Abortion due to fetal abnormalities after 6 months of policy.
+65-year-old woman underwent chemotherapy, policy only 45 days old.
+Eye laser correction (LASIK) claim after 4 years of policy, no pre-approval taken.
+Liver transplant planned after 3 years of continuous policy coverage.
+Family floater plan — daughter had C-section at network hospital.
+Non-emergency dental procedure, claimed under wellness cover.
+ICU charges for 4 days, but hospitalization was less than 24 hours.
+Asthma attack during travel, policy had travel add-on.
+Sports injury (ACL tear) during gym, submitted claim for physiotherapy.
+Weight loss surgery due to morbid obesity, medically recommended.
+Travel expense for post-discharge physiotherapy sessions.
+Botox treatment after accident-induced nerve damage.
+Joint replacement surgery in a non-network hospital.
+Heart attack in airport, treated in private clinic nearby.
+Bed rest prescribed for 10 days due to spine injury, but no admission.
+Admitted for alcohol rehab therapy, claim under Plan B.
+Wife claimed cosmetic surgery for post-burn scars.
+Head injury during bike accident, submitted police FIR.
+Chronic back pain, treated at ayurvedic center.
+14-year-old admitted for dengue, policy covers up to ₹5L.
+Claiming reimbursement for 3-day stay due to food poisoning.
+Sleep study (polysomnography) for apnea diagnosis.
+1-day daycare eye procedure with intraocular lens.
+Husband and wife both hospitalized in same incident — single claim?
+Cancer screening as preventive measure.
+Kidney stone removal using laser, admitted for 6 hours.
+Insured missed premium by 1 day, claim valid?
+Claim filed for surgery 3 days before policy start (mistake).
+Minor fracture treated with plaster in outpatient room.
+Admitted for monitoring due to low BP during pregnancy.
+Claimed oxygen support and home nurse post-discharge.
+Treatment of dengue in a temporary rural camp.
+Injury in foreign country — reimbursement claim filed.
+Claiming consultation and medication for hair loss.
+Surgery postponed due to infection, claim filed already.
+Pre-hospitalization expense: 8 doctor visits & scans.
+Patient admitted under friend's name to use his insurance.
+Laparoscopy for infertility testing — claim submitted.
+Father’s ICU stay due to COPD attack.
+Psychotherapy sessions taken weekly, total ₹35,000.
+Self-medication after symptoms; later diagnosed dengue.
+Claimed reimbursement for sterilization procedure.
+Piles surgery at day-care hospital in non-metro city.
+Snakebite emergency treatment in forest area.
+Teen injured during school cricket match.
+Patient changed room twice during admission — excess charge?
+Child born premature, kept in NICU for 2 weeks.
+Elderly woman with dementia admitted due to fall.
+Routine checkup revealed heart blockage — immediate angioplasty.
+COVID booster side effects — admitted for dehydration.
+Stent replacement done after previous failed surgery.
+Claim for expired medicine accidentally taken by patient.
+Relapse of earlier cancer within policy wait period.
+International student covered by family floater plan in India.
+Claimed twice for same issue from two different insurers.
+Cancer-related claim — doctor not from empaneled list.
+Limb amputation after electric shock in factory.
+Baby vaccination cost post-birth included in claim.
+Claimed travel costs of air ambulance from hills.
+Claimed physiotherapy for frozen shoulder — OPD setting.
+Twin pregnancy — both newborns NICU.
+Routine scan detected ovarian cyst — surgery done.
+Medical abortion in clinic due to failed contraception.
+Father-in-law added to policy 6 months ago — fracture claim.
+Bariatric surgery done post-diet failure — referred by doctor.
+Painkiller reaction led to hospital stay — short but valid?
+Police complaint filed — domestic injury-related claim.
+Ayurvedic therapy for arthritis — covered or not?
+Gym accident led to wrist surgery — claim initiated.
+Claimed experimental treatment under palliative care.
+Son treated for epilepsy after seizure episode.
+Cerebral palsy support therapy sessions billed monthly.
+Claimed for damaged hearing aid in hospital fire.
+Claimed reimbursement of visa fee to travel abroad for treatment.
+Insured underwent dialysis outside network city.
+Repetitive migraine attacks led to MRI & short stay.
+Used corporate health policy but later billed personal insurer.
+Claimed smartwatch purchase for heart rate monitoring.
+Treated for TB in government isolation unit.
+Cancer patient took unlisted medicine from abroad.
+Claimed post-mortem charges of deceased policyholder.
+Patient died during treatment — partial claim possible?
+Adopted child added recently — claimed for fever admission.
+Cashless denied — now asking for reimbursement.
+Pet dog bit the policyholder — treatment claimed.
+Hospital wrongly billed extra — user files revised claim.
+Claimed room rent above sublimit — possible to appeal?
+Underwent organ donation — claimed surgery expense.
+Foreign treatment done without pre-authorization.
+Herbal detox therapy — OPD basis.
+Claimed full ICU bill — insurance says co-pay applies.
+Wife treated for ectopic pregnancy — 3-year-old policy.
+Sleep paralysis and anxiety — 2-day neuro ward admission.
+My father, 72 years old, had cataract surgery last week in a private hospital. Can I claim the ₹18,000 I spent?
+I’m 28 and got hospitalized for dengue in a network hospital. Can I claim ₹40,000 under my 5-month-old policy?
+Can I claim reimbursement for COVID-19 home isolation expenses for 10 days?
+The hospital billed ₹7,000 for PPE kits. Is that reimbursable under my group policy?
+Is the claim valid for my son’s tonsil removal surgery under the Star Health family floater plan?
+I recently shifted my insurer to Niva Bupa. Can I claim for kidney dialysis done a month after switching?
+A bike accident led to 3 days of hospitalization. The policy is just 20 days old. Can I claim?
+My mother underwent chemotherapy in a daycare center. Can I claim ₹25,000 for that?
+I had a heart surgery in the US while on vacation. Can my Indian health insurance cover it?
+The doctor recommended knee replacement, but I postponed it. Now can I claim if done after 6 months?
+Is a claim valid for Ayurvedic therapy in a government-approved AYUSH hospital?
+Can I claim treatment done in a non-network hospital if it was an emergency?
+Is physiotherapy at home post-fracture covered under the cashless policy?
+My younger brother got stitches in the ER. It didn't require admission. Can we claim?
+Can dental implants due to trauma from an accident be claimed under my health policy?
+Can I claim the entire maternity hospitalization cost including room rent and medications?
+Can I get reimbursed for a consultation and MRI scan I did before hospitalization?
+Is oxygen cylinder cost reimbursable for a patient in home quarantine?
+Can I claim expenses for infertility treatment like IVF under my individual health plan?
+A surgery was delayed due to insurance approval issues. Will the claim still be valid?
+Is my LASIK eye surgery reimbursable under health insurance?
+I’m hospitalized for mental health evaluation. Is that covered?
+I want to claim treatment for piles. My policy is 6 months old.
+Can the ambulance fee of ₹2,500 be claimed if it was non-emergency?
+My grandparent’s name is not on the policy but I paid their bills. Can I claim?
+I purchased insurance 10 days ago. Can I claim a dengue hospitalization that happened today?
+We had to upgrade the hospital room due to availability. Can the excess charges be claimed?
+Are injuries from an alcohol-related incident eligible for claim?
+Can I claim for alternative therapies like acupuncture for arthritis?
+Is pre-policy medical check-up expense reimbursable?
+I was admitted for observation for 18 hours. Can I still claim?
+Is the cost of blood and consumables covered under the group policy?
+I was treated for a minor head injury in an emergency room. No admission. Can I claim?
+My baby was born prematurely and needed NICU. Is this covered under maternity cover?
+I want to claim for my father’s Parkinson’s treatment which involves injections every month.
+Can I claim for mole removal surgery done for preventive reasons?
+I had to pay ₹15,000 as a deposit. The insurance paid the rest. Can I claim that deposit?
+I was treated for heatstroke while traveling. Is travel health covered?
+My uncle’s surgery happened under my name as I paid. Can I still claim?
+Do I need to submit physical bills or are digital copies enough?
+I did my surgery in a new hospital added to the network after policy purchase. Will it be reimbursed?
+I missed informing the TPA before admission. Will I still get the claim?
+I was admitted during the waiting period of 2 years for pre-existing illness. Can I claim?
+The claim was rejected earlier. Can I reapply after appeal?
+My policy was inactive for a few days during the treatment. Can I still claim?
+Do policies cover expenses from mob violence or riots?
+My brother-in-law used my insurance card. Can I claim or is that a violation?
+Can I claim gym physiotherapy sessions advised by an ortho?
+Is cost of blood pressure monitoring machines reimbursable?
+Do insurance plans cover overseas medical second opinions?
+Can I claim health check-up vouchers if not used in the policy year?
+Can I claim for TB treatment done through a government scheme?
+Are injections for vitamin deficiency covered under my corporate policy?
+Does my student health policy cover ADHD therapy sessions?
+I got stitches after falling from stairs at home. Can I get reimbursement?
+My hospitalization was due to panic attacks. Will the insurance cover it?
+I was hospitalized for food poisoning. My policy has just crossed 30 days. Will it cover?
+Can I claim follow-up visits after surgery under the same hospitalization?
+I had to buy a walker post knee surgery. Can I claim for that?
+I was admitted for a dog bite. Can I claim the rabies injection expenses?
+My husband had to undergo cosmetic dental surgery after an accident. Will it be covered?
+Is plastic surgery covered if it’s reconstructive after a burn injury?
+Are bed charges for ICU the same as regular room in claims?
+I was on dialysis but later admitted for infection. Will that be considered separately?
+The policy says cashless but I had to pay first. Can I claim now?
+Can I claim OPD consultation if it led to admission later?
+Do policies cover psychological counseling for cancer patients?
+Is a claim valid for stroke caused by stress and high BP?
+I’m a student with EduCare plan. Can I claim sports injury expenses?
+I have two policies. Can I split claims between both?
+Can I claim for post-surgery protein supplements?
+Will group policy cover my spouse’s maternity treatment?
+Can I file a claim for my live-in partner under the same family floater?
+I got treated in a military hospital. Can I still claim under private policy?
+I underwent cataract in both eyes 2 months apart. Are both claims allowed?
+Can I claim medicine refills for chronic illness like diabetes?
+My boss added me to company insurance after joining. Can I claim for treatment before joining?
+I slipped and got minor surgery. No pre-auth done. Can I claim?
+I was unconscious on arrival. Hospital informed later. Is claim valid?
+My baby was born under C-section due to complications. Can we claim full cost?
+Are claims allowed if the hospital name is incorrectly spelled on documents?
+Can insurance deny claim due to spelling error in diagnosis?
+My insurer changed TPA mid-policy. Does it affect existing claims?
+I was admitted in another city while on vacation. Can I still use my policy?
+I used my card at the pharmacy but also paid cash. Can I claim both?
+Is sterilization/tubal ligation covered under health policy?
+I received cashless approval but paid for some consumables. Are they reimbursed?
+My dependent mother got injured. Her name is added newly. Can I claim?
+I had two-day hospitalization due to food allergy. Is it eligible?
+I received reimbursement, but it was ₹3,000 less. Can I claim the rest?
+Are hospital admin or processing fees claimable?
+Is child vaccination covered in newborn’s insurance?
+Do insurance plans cover mental therapy sessions for anxiety?
+Can the cost of donor screening in organ transplant be claimed?
+Is claim allowed if hospitalization was recommended by teleconsultation?
+I was injured during marathon participation. Is that covered?
+Are stitches from a minor kitchen accident claimable?
+Does insurance cover injuries from self-defense?
+Are bites from wild animals covered in hospitalization insurance?
+I am covered under two family policies. Can I claim maternity from both?
+Is hernia surgery covered if it happens after the waiting period ends?
+Can I claim sleep apnea diagnostic test done at home?
+Is sudden breathlessness due to panic attack claimable if admitted?
+Knee ligament tear surgery for 58-year-old male in Chennai. Policy active for 6 months.
+Hospitalization for dengue fever. Admitted for 3 days. No pre-authorization obtained.
+Skin grafting for burn injury caused at home. Policy in 2nd year. Female, 22 years old.
+Spinal surgery due to age-related degeneration. Patient is 71 years old. Policy with Super Health Shield.
+Physiotherapy at home after fracture. Is it covered under recovery benefits?
+Father admitted for COVID-19. ICU stay of 2 days. Policy started 45 days ago.
+Policyholder requested room upgrade to private deluxe. Will extra cost be covered?
+Dental root canal treatment due to infection. No accident involved. Male, 28 years old.
+Cataract surgery for mother, 64 years old. Already completed waiting period.
+Abortion due to fetal abnormalities at 20 weeks. Will claim be reimbursed?
+Accidental head injury during trekking. Patient stabilized in nearby hospital in Dehradun.
+Chronic kidney disease patient requires regular dialysis. Policy in 3rd year. Male, 52.
+Child hospitalized due to appendicitis. Policy in name of father. Policy active since 1 year.
+Ambulance charges claimed for taking patient home after discharge.
+MRI scan done on outpatient basis due to headache. Any diagnostic cover?
+Policyholder hospitalized for severe food poisoning. Stayed 18 hours. Daycare or not?
+Request for full reimbursement for surgery under critical illness rider.
+Attempted suicide case admitted for psychiatric care. Will claim be valid?
+Health policy covers postnatal care? Delivery happened 4 days ago.
+Plastic surgery due to burn injury from LPG accident. Covered under accident section?
+Admitted in alternative medicine hospital (Ayurveda) for arthritis. Will insurance accept?
+Gallbladder removal for 40-year-old woman. 1 year policy. Room rent limit exceeded.
+Treatment in Thailand for heart condition during vacation. Reimbursement eligible?
+Consultation + medicines for recurring migraine. No hospitalization involved.
+Laser treatment for vision correction (LASIK). Male, 25. Covered?
+C-section delivery on 36th week. Complications occurred. Policy active since 11 months.
+Nursing assistant hired at home for post-op care. Can we claim?
+Air ambulance used due to remote area. Valid for emergency hospitalization?
+Knee replacement for 62-year-old diabetic woman. Pre-existing condition disclosed.
+Minor surgery (skin cyst) done in clinic. Less than 6-hour stay. Can it be claimed?
+Mother admitted for dehydration due to vomiting. Discharged within 24 hours.
+Cancer chemotherapy cycles started. 2nd year policy. Pre-auth taken. Can we continue claims?
+Child fell and broke arm. Surgery done next day. Family floater policy with XYZ Insurance.
+Stomach ulcer treatment for 3 days. Discharge summary available. Claimable?
+Acupuncture sessions prescribed by doctor for back pain. Covered?
+Treatment at charitable hospital. Reimbursable under private insurer?
+Accident while travelling on bike. Multiple fractures. Claim filed after 4 days.
+Blood transfusion for thalassemia patient. Covered under policy?
+Hip fracture due to fall in bathroom. Senior citizen. Hospitalized 2 days.
+Appendicitis surgery. Pre-auth not done but within TPA network. Reimbursed?
+Second opinion consultation at private clinic. Original diagnosis stands. Covered?
+Patient admitted for liver cirrhosis complications. Alcohol history present.
+Delivery occurred in home setup with midwife. Is any claim possible?
+Dialysis done in mobile van by authorized hospital. Invoice available. Reimbursed?
+Colonoscopy advised due to blood in stool. OPD or daycare?
+Vaccination for typhoid advised before international travel. Covered?
+Mother admitted for hypertension and stroke. Hospital not in insurer network.
+Burns due to pressure cooker explosion. Admitted 3 days. Male, 45.
+Daycare cataract surgery for left eye. 2nd eye done earlier. Coverage still available?
+Family floater used by uncle who stays with us. Is he eligible?
+Hospital denied cashless saying card expired. Reimbursable post-fact?
+Broken tooth from fall at home. Dental surgery advised. Covered?
+Newborn baby admitted to NICU. Baby added after 10 days. Policyholder is father.
+Surgery done on policyholder’s sister. Same surname. Claimed under family plan.
+Transgender individual hospitalized for hormone therapy complication. Covered?
+Patient from Assam referred to Kolkata hospital. Claim filed in hometown. Rejected?
+Allergic reaction due to wrong injection. Medical negligence. Can insurance help?
+Laparoscopy advised for fibroids. Procedure scheduled. Need to check eligibility.
+IV drip administered at home for dehydration. Any home care provision?
+Insurance expired during hospital stay. Will claim be honored?
+Mother admitted to mental health facility. 3rd visit. Long-term coverage available?
+Skin infection worsened. Multiple outpatient visits. Policy covers OPD?
+Maternity coverage used 1 year ago. Second delivery now. Still covered?
+Policyholder is NRI. Claims for treatment in India submitted from abroad. Process?
+Nose surgery done for breathing problem. Considered cosmetic?
+ICU admission due to panic attack. Cardiologist ruled out heart condition. Covered?
+Snake bite emergency. 24-hour stay. Local government hospital. Reimbursement?
+Therapy sessions for ADHD child. Long-term treatment. Health plan covers?
+Vaccine reaction led to hospitalization. Pediatrician note available. Male child, 2 years.
+Relapse of illness within 30 days of previous hospitalization. Will claim be valid?
+Patient admitted for accidental drowning. Recovered in 3 days. Insured amount?
+Gallbladder removal and hernia repair done in one surgery. Covered under one claim?
+Husband hospitalized. Wife submitted claim under her personal policy. Valid?
+Policy active but payment was delayed. Hospital refused cashless. Reason?
+Pregnancy terminated due to rape trauma. Is mental health component also covered?
+Chemotherapy and radiation alternate months. Two separate bills. Process?
+Hospitalized for drug overdose. Claimed as accidental ingestion. Rejected?
+Double claim submitted for same procedure by mistake. Can one be withdrawn?
+Muscle tear due to gym injury. 2-day rest. No admission. Claimed?
+Claim filed under wrong policy number. Correction possible?
+Travel policy used for hospitalization in home country. Rejected. Why?
+Teenager fell while skating. Bone fracture treated. Minor. Policy in father's name.
+Short-stay for diagnostic cardiac cath test. 8 hours. Is it a daycare?
+Ear surgery (tympanoplasty). Doctor says it's minor. Covered or not?
+Patient denied cashless due to name mismatch on Aadhaar. Options?
+Emergency hospitalization during religious pilgrimage. Mobile hospital. Claimable?
+Nursing mother hospitalized. Baby accompanied her. Baby not added to policy yet.
+Patient admitted for dengue. Room shared with family. Charges split. Allowed?
+Policy covers only illness, not accidents. Bike accident injury claimed. Rejected?
+Diabetic wound infection led to amputation. Is claim capped?
+Pet dog bit family member. Rabies treatment taken. Claimable?
+Elderly patient’s surgery delayed due to blood pressure spike. Cost incurred. Covered?
+Hospitalization for insomnia due to work stress. Mental health provision used?
+MRI report advised 3 months ago. Done now due to delay. Claim timing okay?
+Doctor changed mid-treatment. Second doctor not empaneled. Claim status?
+Hospital stay exceeded estimate. Additional approval not taken. Balance reimbursed?
+Treatment due to side effects of Ayurvedic medicine. Covered under allopathy?
+OPD consultation resulted in emergency admission. Single claim or separate?
+Expenses for donor in kidney transplant. Reimbursed under recipient's policy?
+Patient underwent multiple small procedures in one admission. All covered?
+Wrong medication given by chemist. Allergic reaction treated. Claimable?
+Patient denied cashless due to name mismatch on Aadhaar. Options?
+Emergency hospitalization during religious pilgrimage. Mobile hospital. Claimable?
+Nursing mother hospitalized. Baby accompanied her. Baby not added to policy yet.
+Patient admitted for dengue. Room shared with family. Charges split. Allowed?
+Policy covers only illness-related claims. Cataract removal covered?
+Ambulance delayed due to traffic. Reached hospital in private car. Claim valid?
+Treatment received under pseudonym due to privacy concerns. Claim possible?
+Hospital was recently de-empaneled. Claim for treatment taken during transition?
+Claim submitted after 60-day window. Any chance for exception?
+Insured travelled to another city for surgery despite facility available locally.
+Accidental injury during a sports tournament. Covered under health insurance?
+Patient used home ICU setup under doctor's guidance. Can this be claimed?
+Claim filed jointly under spouse’s and personal policy. Is this duplication?
+OPD treatment extended into emergency hospitalization. Which portion claimable?
+Treatment denied since hospital didn't provide necessary paperwork. What now?
+Cashless not approved due to outdated KYC. Later updated. Can claim be revived?
+Treatment delayed due to unavailability of specialist. Hospital stay extended.
+Procedure cancelled midway due to complication. Pre-authorization used.
+Admitted with mental breakdown. Diagnosis unclear for 3 days. Claim valid?
+Admitted under emergency, later declared cosmetic procedure. Covered?
+Family members paid using credit card. Reimbursement issued to cardholder?
+Wrong MRN entered in claim documents. Can it be corrected post-submission?
+Family opted for a hotel stay during hospital renovation. Claimable under policy?
+Newborn treated for jaundice. Birth not yet registered. Can claim proceed?
+Treatment was in an Ayurvedic center. Policy silent on AYUSH procedures.
+Daughter hospitalized for appendicitis. Father's name mismatched. Can it be fixed?
+Hospital overcharged for disposable supplies. Can we contest the bill?
+Claim submitted to two insurers. One approved. Other asked for NOC.
+Hospital acquired by new management mid-treatment. Claim complications?
+Claim submitted with scanned documents instead of originals. Any issue?
+Family floater plan maxed out. Emergency happened next day. Partial claim?
+Treatment began before policy started. Continued into coverage period.
+Hospital charged extra for festive period. Insurance declined. Justified?
+Claim delayed due to hospital fire. Records lost. Can claim be honored?
+Cashless request sent on weekend. TPA responded late. Denied pre-auth.
+Policy started Jan 1st. Surgery on March 28th. 90-day clause creates confusion.
+Insured forgot to disclose pre-existing asthma. Related claim denied.
+Hospital did not update discharge summary. TPA rejected. What next?
+Pre-approval taken for Rs. 75,000. Final bill Rs. 1.2L. Can balance be claimed?
+Same surgery claimed 3 years ago. Recurrence now. Still eligible?
+Patient died in ambulance. Hospital bill only partial. Can claim still be processed?
+Second opinion from online doctor taken. Cost reimbursable?
+COVID treatment in field hospital. No registration number. Claim denied.
+TPA portal crashed. Manual claim attempted. Later rejected.
+Reimbursement submitted from hospital branch not empaneled. Eligible?
+Non-empaneled surgeon called in for critical surgery. Fees denied.
+Treatment done under corporate policy, now claimed under personal.
+Hospital mistakenly billed another patient. Realized later. Correction possible?
+Admitted in ICU, shifted to general ward due to shortage. Billing conflict.
+Ayurvedic medicine prescribed during allopathic treatment. Bills denied.
+Minor surgery postponed thrice. Multiple admission records. Claim split?
+Elderly parent hospitalized without family knowledge. Delay in paperwork.
+Patient unconscious. Consent signed by neighbor. TPA refused to accept.
+Lab tests done a week before admission. Needed for diagnosis. Included?
+Hospital demanded security deposit despite cashless. Refund process?
+Insurer demanded hospital photos for validation. Patient privacy concern.
+Claim raised using employer policy. Job terminated during treatment.
+Duplicate investigation report submitted. Genuine one lost.
+Language mismatch in bills and reports. Insurer seeks translated version.
+Blood donation for patient done privately. Hospital charged still. Why?
+Patient used personal oxygen concentrator. Can usage be reimbursed?
+Hospital bill included charity donation. Insurer refused that portion.
+Admission delayed as hospital was full. Later admitted elsewhere.
+Room category mismatch between policy and actual. Claim adjusted lower.
+TPA on strike. Delay in pre-auth. Hospital demanded cash.
+Patient absconded post-discharge. Hospital filed FIR. Claim status?
+Doctor charged follow-up consult on day of discharge. Included in claim?
+Family arranged outside ambulance as hospital one unavailable.
+Claim exceeded sum insured. Can part be covered by secondary policy?
+Policy document misplaced. Can e-policy be used for submission?
+Hospital changed consultant midway. Difference in fees. Covered?
+Diagnosis changed post-surgery. Initial claim pre-auth no longer valid.
+Patient admitted for stroke. Later found to be drug overdose.
+Discharge summary missing attending physician name. Claim stalled.
+Patient left hospital against medical advice. Reimbursement valid?
+Bills paid using health wallet app. Proof of payment accepted?
+Hospital raised GST incorrectly. Insurer adjusted claim. Can refund be claimed?
+Room occupied due to late discharge. Extra day charged. Reimbursable?
+Patient requested hospital transfer mid-treatment. Transport cost?
+Surgeon demanded separate cash payment. Insurance refused to cover.
+Hospital insisted on package surgery. Actual bill less. Claim adjusted lower.
+Admitted for dehydration. Later diagnosed with food poisoning. Claim impacted?
+Medical tests repeated as first lab unaccredited. Duplicate cost claimable?
+Insured took ayurvedic detox therapy. Claimed as preventive.
+Insured opted out of pre-policy health checkup. Now claim denied.
+Online consultation during COVID. Later admitted. Continuity of care?
+Policy said “all daycare surgeries”. Laser wart removal denied.
+Family not aware of sum insured. Took expensive ICU. Claim reduced.
+Cashless facility only at night shift denied. Emergency. Dispute possible?
+TPA asked for treating doctor’s resume. Hospital refused to share.
+Same policyholder has 2 policies with different dates. Confusion on eligibility.
+Hospital changed bill format. System rejected upload. Manual entry failed.
+Blood units purchased from private bank. Hospital refused to reimburse.
+Minor injured at school. Treatment taken privately. Parents reimbursed?
+Hospital under investigation for malpractice. Claims frozen.
+Ambulance invoice missing registration number. Insurer rejected.
+Insured got treated via trial drug under study. Claimable?
+Room with attached bathroom charged higher. Insurer refused excess.
+TPA portal showed wrong policy tenure. Dispute ongoing.
+Treatment completed. Claim not filed. Later discovered policy active.
+Admission done on recommendation from online chatbot doctor.
+Hospital used consumables not mentioned in bill. Added later.
+Insured policy covered international travel. Returned midway for surgery.
+Mental health therapy sessions held online. Reimbursement allowed?
+Patient identity verified via face ID, mismatch in signature.
+Insured added rider for cancer. Diagnosed with rare subtype.
+Policy expired 2 days before hospitalization. Grace period claim?
+Father hospitalized after minor stroke. Insurance policy in son's name. Can claim be made?
+Patient admitted for COVID-19. PPE charges billed separately. Claimable?
+Policy expired two days before surgery. Renewal pending. Any options?
+Blood transfusion during surgery. Donor not a relative. Any exclusions?
+Patient has two insurance policies. Can both be used for reimbursement?
+Hospital gave cashless initially, later revoked it. What can be done?
+24-year-old undergoing infertility treatment. Covered?
+Treatment in ayurvedic hospital for arthritis. Claimable under standard health policy?
+Son broke arm in school. Treated at private hospital. Can school insurance help?
+Patient taken to hospital by friend’s vehicle. No ambulance. Claim allowed?
+Policyholder hospitalized for kidney stone removal. Pre-hospitalization lab tests done outside network. Covered?
+Mental health counselling sessions due to workplace stress. Covered?
+Patient diagnosed with obesity. Advised surgery. Bariatric procedure covered?
+Attempted suicide. Hospitalized for injuries. Any claim applicable?
+Patient with chronic asthma admitted during dust storm. Is emergency coverage valid?
+Surgery delayed due to doctor unavailability. Extended stay. Can extra room days be claimed?
+MRI advised post-discharge for same illness. Reimbursable?
+Patient on international trip, fell ill, got treated locally. Covered?
+Treatment continued after policy expired. Recovery still ongoing. Claimable?
+Nursing care provided at home by certified professional. Covered under home care?
+Vaccination for newborn taken in hospital. Included in maternity benefit?
+Multiple consultations billed for same day. Doctor follow-ups. All claimable?
+Room rent limit exceeded for ICU stay. Will insurer pay only partial amount?
+Claim rejected for pre-existing diabetes. Policy had 3-year waiting. 4th year now.
+Patient slipped in hospital bathroom during stay. Injury treatment covered?
+Treatment by hospital not listed in insurer’s network. Emergency. Can it be reimbursed?
+Patient with cancer receiving alternative therapy (Siddha). Covered?
+Organ donor’s hospitalization charges. Covered by recipient’s policy?
+Emergency c-section for twins. Extra charges billed. Entire cost reimbursable?
+Air ambulance used for inter-state transfer. Insurer approved regular ambulance. Still claimable?
+Minor surgery under local anesthesia done in outpatient. Reimbursed?
+Patient admitted for chest pain. Diagnosis non-cardiac. Still covered?
+Hospitalized for dengue. Lab tests done a week earlier. Covered under pre-hospitalization?
+Patient's Aadhaar not linked to policy. Cashless denied. What can be done?
+Minor’s father is not the proposer. Claim rejected. Any workaround?
+Reimbursement filed after 90-day deadline. Will it be considered?
+Insurer says claim form incomplete. What details are essential to resubmit?
+Discharge summary has wrong patient ID. Hospital refuses correction. Insurer’s stance?
+Patient shifted from general ward to deluxe. Charges adjusted. Partial claim?
+Treatment postponed due to strike. Can rescheduling be claimed again?
+Dental root canal covered if pain originated from accident?
+Seizure patient admitted in a clinic. Not hospital. Is it reimbursable?
+Two surgeries done together. One covered, one not. Partial claim possible?
+Same illness treated twice within 60 days. Re-admission policy applies?
+New policyholder had undiagnosed BP. Detected during pre-policy check. Will future claims be valid?
+Hospital overcharged for consumables. Can insurer audit and recover?
+Policy bought on Dec 1. Admitted on Dec 30. Claim rejected for waiting period. Valid?
+Mother delivered baby at home. Postnatal complications treated in hospital. Covered?
+Lab tests done after claim submission but before approval. Reimbursement allowed?
+Insurer asking for original bills. Hospital says lost. Will claim be rejected?
+Neonatal ICU for 3 days. Covered under maternity benefit?
+Patient admitted under friend's name accidentally. Hospital fixed later. Insurer will accept?
+Insurer rejected claim citing “room rent proportionate deductions.” What does it mean?
+Accident during foreign internship. Covered under Indian policy?
+Delay in discharge due to unavailable doctor. Extra day charge reimbursed?
+Advance paid to hospital in cash. Insurer asking for proof. Acceptable?
+Treatment done in one hospital. Billing done via parent hospital. Claim affected?
+Second surgery due to first one’s complication. Will insurer consider full?
+Nursing care by family member not certified. Still eligible for claim?
+Non-disclosure of minor allergy. Discovered during treatment. Can insurer reject claim?
+Hospital under investigation for fraud. Will it impact my claim?
+Cashless denied midway. Shifted to reimbursement. Is this valid?
+Hospital's GST number missing on bill. Will insurer process claim?
+Policy states “excluding congenital issues.” But patient is adult now. Still excluded?
+Policy renewed late. Grace period passed. Claim made in between. Acceptable?
+Patient took 2 policies in same year. Both cover same condition. Can both be used?
+Newborn twin added late to policy. One fell ill. Can claim still be made?
+Post-operative physio sessions at clinic. Covered?
+Policy says AYUSH covered but hospital not NABH accredited. Claimable?
+Niece got injured during vacation. Treated using aunt's floater policy. Allowed?
+Insurer asking for FIR for accident claim. It was a minor home injury. Needed?
+Insurer refused claim saying hospital not 24x7 operational. Valid reason?
+Treatment package included TV, food, internet. Will insurer deduct non-medical?
+Surgery pre-approved for ₹80,000. Final bill ₹1.2 lakh. What can be claimed?
+Claim form signed by junior doctor. Insurer says needs consultant signature. Problem?
+Family floater plan exhausted. New claim for another member. Can it be considered?
+Day-care treatment lasted 27 hours. Still considered day-care?
+Chemotherapy taken in local clinic. Policy allows day-care. Claimable?
+Policy wordings vague about “accidental dental.” Injury covered?
+Burn injuries from firecrackers during festival. Covered?
+Patient was unconscious. Neighbour signed consent. Hospitalization valid?
+Reimbursement documents submitted late due to postal delay. Rejected?
+Discharge summary issued late. Insurer deadline missed. Can claim be revived?
+Patient had ongoing treatment before taking policy. Not disclosed. Disallowed?
+Medical negligence suspected. Does insurer still pay for hospitalization?
+Patient transferred between hospitals during treatment. Separate bills. Claimed together?
+Food supplements billed during hospitalization. Will insurer pay?
+Patient admitted at night, discharged next morning. 12-hour stay. Valid claim?
+Hospital added extra diagnostic tests not advised. Insurer liable?
+Policy says “reasonable charges.” Hospital charged premium. What is reasonable?
+Private ward chosen though eligible for shared. Will deductions apply?
+Second opinion sought during hospitalization. Doctor fee covered?
+Child admitted for fever. Later found to be UTI. Any issue with claim reason?
+Pre-existing epilepsy disclosed. Admitted for unrelated injury. Still covered?
+Medical devices (walker, hearing aid) billed. Covered?
+Patient had a policy lapse last year. Any continuity benefit available now?
+Health insurance linked to employer. Patient resigned last week. Still eligible?
+Cancer screening done at camp. Found abnormal. Follow-up tests covered?
+Patient changed name legally. Aadhaar updated, policy not. Will claim be delayed?

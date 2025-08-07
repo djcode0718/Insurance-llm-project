@@ -1,0 +1,70 @@
+Claiming for diabetes treatment in the first month of policy.
+Heart surgery for a condition diagnosed before policy started.
+Cataract surgery claimed within 3 months of policy start.
+Knee replacement within 15 days of policy issuance.
+Attempting to claim thyroid disorder medication after 10 days of policy.
+Asthma treatment 1 month after buying insurance.
+Request for reimbursement of prior cancer therapy.
+Claim for varicose veins surgery before completion of 2-year waiting period.
+Hernia surgery claim in 1st policy year.
+Pre-diagnosed PCOS treatment filed within 30 days of policy.
+Cosmetic nose reshaping for aesthetic purposes.
+Liposuction requested for body shaping.
+Botox injections for wrinkle treatment.
+Hair transplant due to baldness.
+LASIK surgery for vision correction.
+Gym membership reimbursement for obesity.
+Ayurvedic massage therapy for wellness.
+Acupuncture session for anxiety.
+Fertility treatment including IVF.
+Stem cell banking for newborn.
+Routine dental cleaning claim.
+General health check-up reimbursement.
+Cost of protein supplements and vitamins.
+Claim for routine blood test without hospitalization.
+Fever medication taken at home.
+Over-the-counter medication from pharmacy.
+Requesting transport charges to hospital without hospitalization.
+Claiming internet/phone charges during teleconsultation.
+Wellness app subscription claim.
+Spa therapy for mental refreshment.
+Fake bills submitted for reimbursement.
+Name mismatch between policyholder and patient.
+Surgery done in an unregistered hospital.
+Hospitalized under a different name than policyholder.
+Same treatment claimed twice.
+Admission for medical observation without diagnosis.
+Surgery performed without any doctor recommendation.
+Treatment done abroad without global coverage.
+Policy expired on day of surgery.
+Filing claim after 6-month delay without justification.
+Alcohol rehab program treatment.
+Treatment for drug overdose.
+Smoking-related lung therapy without disclosing smoking habit.
+Suicide attempt leading to hospitalization.
+Road accident due to drunk driving.
+Psychiatric care following LSD usage.
+Gaming addiction therapy.
+Gambling-related psychological treatment.
+Self-harming injuries needing stitches.
+Attempted starvation for weight loss hospitalization.
+Abortion for personal choice.
+Delivery expenses in a non-maternity plan.
+Infertility work-up treatment.
+Surrogacy-related hospitalization.
+Pregnancy scan reimbursement.
+Pre-natal yoga and wellness claim.
+Contraceptive surgery reimbursement.
+Hormone therapy for planned pregnancy.
+Claim for treatment in Thailand while on vacation.
+Surgery done in Dubai not covered under policy.
+OPD consultation in USA without international policy.
+Lost medical documents while abroad.
+Vaccination taken for international travel requirement.
+Travel insurance mistaken as health policy.
+Health issues during trek without adventure coverage.
+Air conditioner charges in hospital room.
+Cost of ambulance for non-emergency shift.
+Food expenses for patient's relatives.
+Private nursing requested post-discharge.
+Room upgrade fee during hospitalization.

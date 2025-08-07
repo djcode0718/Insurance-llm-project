@@ -1,6 +1,12 @@
 from embed.build_index import load_vectorstore
 from app.ollama_client import query_llama3
 
+from app.memory_utils import get_memory_for_user
+# from auth.models import MemorySummary
+
+from app.intent_classifier import is_insurance_related
+from app.generic_reply import generate_generic_reply  # <-- new
+
 SYSTEM_PROMPT = """You are an insurance claim decision assistant. 
 You are given a query and a few relevant clauses from an insurance policy.
 Your job is to:
@@ -27,14 +33,19 @@ Clause IDs Used: []
 vectorstore = load_vectorstore()
 
 def get_decision(query: str) -> dict:
-    # Step 1 – Filter short/irrelevant queries
-    if len(query.strip()) < 10 or query.lower().strip() in ["hello", "hi", "help", "yes", "no"]:
-        return {
-            "approval": "No",
-            "amount": "₹0",
-            "justification": "Query is irrelevant or too vague.",
-            "clause_ids": []
-        }
+    # # Step 1 – Filter short/irrelevant queries
+    # if len(query.strip()) < 10 or query.lower().strip() in ["hello", "hi", "help", "yes", "no"]:
+    #     return {
+    #         "approval": "No",
+    #         "amount": "₹0",
+    #         "justification": "Query is irrelevant or too vague.",
+    #         "clause_ids": []
+    #     }
+
+    # Step 1 – Use LLaMA3-based intent classifier
+    if not is_insurance_related(query):
+        print("Non insurance related question.")
+        return generate_generic_reply(query)  # Smart polite fallback
 
     # Step 2 – Semantic search for relevant clauses
     docs_and_scores = vectorstore.similarity_search_with_score(query, k=5)
@@ -50,6 +61,7 @@ def get_decision(query: str) -> dict:
             clause_ids_used.append(doc.metadata['clause_id'])
 
     if not relevant_clauses:
+        print("Not relevant query, information not present in the clauses")
         return {
             "approval": "No",
             "amount": "₹0",
@@ -84,3 +96,41 @@ def extract_field(text, field):
         if line.lower().startswith(field.lower() + ":"):
             return line.split(":", 1)[1].strip()
     return ""
+
+# def generate_summary(user_id: int, query: str, response: str) -> str:
+#     prompt = f"""Summarize the key long-term memory from this user exchange:
+# User Query: {query}
+# System Response: {response}
+
+# Summary (in one sentence):"""
+#     summary = query_llama3(prompt)  # use your Ollama or GPT endpoint
+#     return summary.strip()
+
+# # 🧠 New memory-aware functionality
+# def get_memory_for_user(user_id: int) -> str:
+#     db = get_db_session()
+#     try:
+#         memory = db.query(MemorySummary).filter_by(user_id=user_id).first()
+#         return memory.summary if memory else ""
+#     finally:
+#         db.close()
+
+def get_decision_with_memory(query: str, user_id: int) -> dict:
+    memory = get_memory_for_user(user_id)
+    prompt = f"""
+{SYSTEM_PROMPT}
+
+MEMORY:
+{memory}
+
+QUERY:
+{query}
+"""
+    llm_response = query_llama3(prompt)
+
+    return {
+        "approval": extract_field(llm_response, "Approval"),
+        "amount": extract_field(llm_response, "Amount"),
+        "justification": extract_field(llm_response, "Justification"),
+        "clause_ids": [],  # Optional: You can re-use the vectorstore logic if clause relevance is still required
+    }
